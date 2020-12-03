@@ -1,6 +1,5 @@
 # Team Names:
-# Course: CS151, Dr. Simari
-# Date: Thu Apr 25
+# Course: CS151, Dr. Rajeev
 # Lab Number: 11
 # Problem Summary: Compare iterative and recursive implementations of fibonacci
 # sequence and binary search.
